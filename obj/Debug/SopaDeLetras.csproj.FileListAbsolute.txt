@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\SopaDeLetras\obj\Debug\SopaDeLetras.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SopaDeLetras\obj\Debug\SopaDeLetras.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SopaDeLetras\bin\Debug\SopaDeLetras.exe.config
+C:\Users\DELL\source\repos\SopaDeLetras\bin\Debug\SopaDeLetras.exe
+C:\Users\DELL\source\repos\SopaDeLetras\bin\Debug\SopaDeLetras.pdb
+C:\Users\DELL\source\repos\SopaDeLetras\obj\Debug\SopaDeLetras.exe
+C:\Users\DELL\source\repos\SopaDeLetras\obj\Debug\SopaDeLetras.pdb
